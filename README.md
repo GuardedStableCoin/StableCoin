@@ -12,10 +12,10 @@
     Securities Contract - KT1DiFxsKvVXhR9NVa9jvEGca3GxTX1GgXbx
 ## Better Call Dev
 
-    ![Token](https://better-call.dev/delphinet/KT1Wsq5zBVJ8mWS8N6b7Uc6cvww3bJSdRmUx/operations)
+[Token](https://better-call.dev/delphinet/KT1Wsq5zBVJ8mWS8N6b7Uc6cvww3bJSdRmUx/operations)
 
-    ![Vault Opener](https://better-call.dev/delphinet/KT1M4k9tcZzhskLrXQ8K2Z37dDS78tbv7AuK/storage)
+[Vault Opener](https://better-call.dev/delphinet/KT1M4k9tcZzhskLrXQ8K2Z37dDS78tbv7AuK/storage)
 
-    ![Oracle](https://better-call.dev/delphinet/KT1Ahbmhi9wNAetJHgKNuAeWpmFFMXeEAgQQ/storage)
+[Oracle](https://better-call.dev/delphinet/KT1Ahbmhi9wNAetJHgKNuAeWpmFFMXeEAgQQ/storage)
 
-    ![Securities Contract](https://better-call.dev/delphinet/KT1DiFxsKvVXhR9NVa9jvEGca3GxTX1GgXbx/operations)
+[Securities Contract](https://better-call.dev/delphinet/KT1DiFxsKvVXhR9NVa9jvEGca3GxTX1GgXbx/operations)
